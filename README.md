@@ -2,7 +2,8 @@
   <h2> Hi there, I'm Hussein! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 </div>
 <p align="center"> 
-  I'm a Computer Engineer from the University of Baghdad with a strong interest in full-stack development. I enjoy building interesting, practical applications.     I'm always exploring new technologies and ideas to turn into useful projects.
+  I'm a Computer Engineer from the University of Baghdad with an interest in Full-Stack development. I enjoy building interesting, practical applications.
+  I'm always exploring new technologies and ideas to turn into useful projects.
 </p>
 
 
@@ -31,6 +32,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
